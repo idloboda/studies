@@ -20,4 +20,5 @@ Feel free to check back for updates as I make progress.
 
 And here's a cute capybara to brighten your day!
 
-![Capybara](https://upload.wikimedia.org/wikipedia/commons/e/ec/Capybara_in_Natural_Habitat.jpg)
+![Capybara]([https://upload.wikimedia.org/wikipedia/commons/e/ec/Capybara_in_Natural_Habitat.jpg](https://upload.wikimedia.org/wikipedia/commons/3/34/Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg))
+
