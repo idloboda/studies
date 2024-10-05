@@ -7,8 +7,8 @@ I'll be adding more information about specific projects as they evolve. This is 
 ### Current Learning Topics
 
 - **[Object-Oriented Programming (OOP)](https://github.com/idloboda/studies/blob/main/oop.md)**
-- **[SOLID Principles](https://github.com/idloboda/studies/blob/main/oop.md)**
-- **[Design Patterns](https://github.com/idloboda/studies/blob/main/oop.md)**
+- **[SOLID Principles](https://github.com/idloboda/studies/blob/main/solid.md)**
+- **[Design Patterns](https://github.com/idloboda/studies/blob/main/patterns.md)**
 
 ### Future Projects
 - Project 1: Details coming soon.
